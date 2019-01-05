@@ -105,3 +105,6 @@ venv.bak/
 
 # File with login secret information
 login_info.json
+
+# Text file of reddit post titles
+post_titles.txt
